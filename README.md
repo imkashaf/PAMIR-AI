@@ -18,7 +18,7 @@ Pamir AI helps first-time Pakistani entrepreneurs and small businesses discover 
 
 **Backend API:** https://pamir-ai-backend.vercel.app/
 
-**GitHub:** https://github.com/uroojbuilds/Pamir-AI
+**GitHub:** https://github.com/imkashaf/PAMIR-AI
 
 ![Pamir AI Demo](assets/demo/pamir-ai-demo.gif)
 
